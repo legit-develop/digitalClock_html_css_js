@@ -9,6 +9,7 @@ body {
   background: url("./images/back_1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
 }
 
 h2 {
